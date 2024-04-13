@@ -67,11 +67,18 @@ header{
 footer{
 	background-color: #b2c568;
 	margin: 0; 
-	padding:20px 8px 8px 20px;
+	padding:10px 8px 8px 10px;
 	border-radius: 10px 10px 0 0;
 }
 
-
+footer {
+	text-align: center; /* 让文字居中 */
+}
+  
+  footer p {
+	font-size: 24px; /* 设置文字大小 */
+}
+  
 img{
 	width:500px;
 	display: block;
