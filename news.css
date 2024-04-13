@@ -75,10 +75,6 @@ footer {
 	text-align: center; /* 让文字居中 */
 }
   
-footer p {
-	font-size: 14px; /* 设置文字大小 */
-}
-  
 img{
 	width:500px;
 	display: block;
