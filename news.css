@@ -67,14 +67,18 @@ header{
 footer{
 	background-color: #b2c568;
 	margin: 0; 
-	padding:8px 32px 8px 32px;
+	padding:8px 8px 8px 8px;
 	border-radius: 10px 10px 0 0;
 }
 
 footer {
 	text-align: center;
+	font-size: 0.85rem;
 }
-  
+
+footer a{
+	text-decoration: none;
+}
 img{
 	width:500px;
 	display: block;
